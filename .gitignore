@@ -37,3 +37,8 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+
+postcss.config.js
+tailwind.config.js
+yarn.lock
